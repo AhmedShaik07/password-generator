@@ -16,5 +16,7 @@ Simple and responsive UI.
 
 # Technologies Used
 HTML: For structuring the webpage.
+
 CSS: For styling the password generator interface.
+
 JavaScript: For implementing the password generation logic.
